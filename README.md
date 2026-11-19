@@ -2,7 +2,7 @@
 
 ## Identitas Mahasiswa
 * **Nama:** Wulandari Meilani Putri
-* **NIM:** 20240040016*
+* **NIM:** 20240040016
 * **Kelas:** TI24C
 
 ## Link Video Demonstrasi
