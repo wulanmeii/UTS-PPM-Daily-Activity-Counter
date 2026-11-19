@@ -1,5 +1,4 @@
 # UTS-PPM-Daily-Activity-Counter
-# UTS-PPM-Daily-Activity-Counter
 
 ## Identitas Mahasiswa
 * **Nama:** Wulandari Meilani Putri
